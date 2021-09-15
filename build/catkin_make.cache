@@ -1,0 +1,2 @@
+hello_ros:pcr
+-DCATKIN_DEVEL_PREFIX=/home/chld/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/chld/ros_workspace/install -G Unix Makefiles

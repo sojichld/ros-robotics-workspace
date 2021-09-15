@@ -1,0 +1,8 @@
+prefix=/home/chld/ros_workspace/devel
+
+Name: pcr
+Description: Description of pcr
+Version: 0.0.0
+Cflags: -I/home/chld/ros_workspace/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_generation message_runtime rospy std_msgs
