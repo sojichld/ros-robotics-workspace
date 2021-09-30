@@ -7,3 +7,4 @@
 subdirs("gtest")
 subdirs("pcr")
 subdirs("hello_ros")
+subdirs("odom_pack")

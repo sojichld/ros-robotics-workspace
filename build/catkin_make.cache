@@ -1,2 +1,2 @@
-hello_ros:pcr
+hello_ros:odom_pack:pcr
 -DCATKIN_DEVEL_PREFIX=/home/chld/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/chld/ros_workspace/install -G Unix Makefiles

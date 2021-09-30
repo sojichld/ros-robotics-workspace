@@ -1,0 +1,8 @@
+prefix=/home/chld/ros_workspace/devel
+
+Name: odom_pack
+Description: Description of odom_pack
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -133,6 +133,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/chld/ros_workspace/build/gtest/cmake_install.cmake")
   include("/home/chld/ros_workspace/build/pcr/cmake_install.cmake")
   include("/home/chld/ros_workspace/build/hello_ros/cmake_install.cmake")
+  include("/home/chld/ros_workspace/build/odom_pack/cmake_install.cmake")
 
 endif()
 
